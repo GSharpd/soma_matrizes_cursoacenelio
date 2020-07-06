@@ -1,0 +1,12 @@
+B:\Repos\soma_matrizes_cursoacenelio\ConsoleApp1\obj\Debug\netcoreapp3.1\soma_matrizes.AssemblyInfoInputs.cache
+B:\Repos\soma_matrizes_cursoacenelio\ConsoleApp1\obj\Debug\netcoreapp3.1\soma_matrizes.AssemblyInfo.cs
+B:\Repos\soma_matrizes_cursoacenelio\ConsoleApp1\obj\Debug\netcoreapp3.1\soma_matrizes.csproj.CoreCompileInputs.cache
+B:\Repos\soma_matrizes_cursoacenelio\ConsoleApp1\bin\Debug\netcoreapp3.1\soma_matrizes.exe
+B:\Repos\soma_matrizes_cursoacenelio\ConsoleApp1\bin\Debug\netcoreapp3.1\soma_matrizes.deps.json
+B:\Repos\soma_matrizes_cursoacenelio\ConsoleApp1\bin\Debug\netcoreapp3.1\soma_matrizes.runtimeconfig.json
+B:\Repos\soma_matrizes_cursoacenelio\ConsoleApp1\bin\Debug\netcoreapp3.1\soma_matrizes.runtimeconfig.dev.json
+B:\Repos\soma_matrizes_cursoacenelio\ConsoleApp1\bin\Debug\netcoreapp3.1\soma_matrizes.dll
+B:\Repos\soma_matrizes_cursoacenelio\ConsoleApp1\bin\Debug\netcoreapp3.1\soma_matrizes.pdb
+B:\Repos\soma_matrizes_cursoacenelio\ConsoleApp1\obj\Debug\netcoreapp3.1\soma_matrizes.dll
+B:\Repos\soma_matrizes_cursoacenelio\ConsoleApp1\obj\Debug\netcoreapp3.1\soma_matrizes.pdb
+B:\Repos\soma_matrizes_cursoacenelio\ConsoleApp1\obj\Debug\netcoreapp3.1\soma_matrizes.genruntimeconfig.cache
